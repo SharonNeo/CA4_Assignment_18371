@@ -4,8 +4,8 @@ This is a full stack application using React, Node.js, Express, MongoDB and Webp
 You can [Click Here](https://ancient-sierra-80316.herokuapp.com/#/)
 to see the running example. 
  
-##  To use this template follow these commands (execute them one at a time)
-###### 1. Set up project CA4
+#####  To use this template follow these commands (execute them one at a time)
+## 1. Set up project CA4
 ```linux
 # clone this repository 
 git clone https://github.com/SharonNeo/CA4_Assignment_18371.git
