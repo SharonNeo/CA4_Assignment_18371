@@ -10,7 +10,7 @@
     "server": "nodemon src/server/index.js",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Erika Volodko",
+  "author": "Sharon Neo",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
