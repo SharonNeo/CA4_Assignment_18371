@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import axios from '../../../CA4/node_modules/axios/../CA4/node_modules/axios';
+import axios from 'axios';
 
 class Register extends Component {
     constructor(props) {
