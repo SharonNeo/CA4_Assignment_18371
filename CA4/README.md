@@ -8,7 +8,7 @@ to see the running example.
 ###### 1. Set up project CA4
 ```linux
 # clone this repository 
-git clone 
+git clone https://github.com/SharonNeo/CA4_Assignment_18371.git
 
 # go inside the root folder
 cd CA4
