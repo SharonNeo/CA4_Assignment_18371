@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 //Axios is a lightweight HTTP client based on the $http service within Angular.js
 //Axios provides support for request and response interceptors, transformers and auto-conversion to JSON
 // Use "npm install axios" command to install
-import axios from '../../../CA4/node_modules/axios/../CA4/node_modules/axios';
+import axios from 'axios';
 
 //Create Move component that will create a new user card
 class CreateMovie extends Component {
