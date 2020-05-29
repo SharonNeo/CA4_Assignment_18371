@@ -14,10 +14,10 @@ cd CA4
 ```
 ## 2. set up axios and bulma
 ```
-# go inside the client Terminal.
+# go inside the CA4/src/client Terminal.
 npm install axios
 
-# go inside the client Terminal.
+# go inside the CA4/src/client Terminal.
 npm install bulma
 ```
 
