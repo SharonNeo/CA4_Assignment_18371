@@ -9,7 +9,7 @@ import axios from 'axios';
 import './app.css';
 // import stylesheet 
 //MAKE SURE TO INSTALL USING npm install bulma
-import '../../../CA4/node_modules/bulma/css/bulma.cssodules/bulma/css/bulma.css';
+import 'bulma/css/bulma.css';
 
 // this component will handle all elements in the users array
 class MovieList extends Component {
